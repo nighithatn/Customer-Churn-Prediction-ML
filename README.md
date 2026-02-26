@@ -201,6 +201,17 @@ The application generates a structured PDF report containing:
 
 ---
 
+## 📊 Dashboard Preview
+
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+
+### Streamlit App
+![Streamlit Dashboard](screenshots/streamlit_dashboard.png)
+
+---
+
+
 ## 📢 Final Summary
 
 This project demonstrates a complete data science pipeline:
