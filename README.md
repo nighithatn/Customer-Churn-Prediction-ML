@@ -205,7 +205,7 @@ The application generates a structured PDF report containing:
 
 ### 🔎 Power BI – Exploratory Data Analysis
 
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](screenshots/Powerbi_dashboard.png)
 
 **Insights Generated:**
 - Churn distribution analysis
