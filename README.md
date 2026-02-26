@@ -133,8 +133,6 @@ To run locally:
 streamlit run app.py
 ```
 
----
-
 ## 🗂 Project Structure
 
 ```
