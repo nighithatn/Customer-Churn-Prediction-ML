@@ -203,11 +203,30 @@ The application generates a structured PDF report containing:
 
 ## 📊 Dashboard Preview
 
-### Power BI Dashboard
+### 🔎 Power BI – Exploratory Data Analysis
+
 ![Power BI Dashboard](screenshots/powerbi_dashboard.png)
 
-### Streamlit App
+**Insights Generated:**
+- Churn distribution analysis
+- Contract type vs churn comparison
+- Tenure impact on churn
+- Monthly charges influence
+- Internet service behavior analysis
+
+---
+
+### 🌐 Streamlit – Real-Time ML Deployment
+
 ![Streamlit Dashboard](screenshots/streamlit_dashboard.png)
+
+**Features Implemented:**
+- Live churn prediction
+- Churn probability display
+- Risk classification (Low / Medium / High)
+- Key churn indicators
+- Business recommendations
+- Downloadable PDF report
 
 ---
 
